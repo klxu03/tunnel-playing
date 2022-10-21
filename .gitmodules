@@ -4,3 +4,6 @@
 [submodule "localtunnel"]
 	path = localtunnel
 	url = git@github.com:localtunnel/localtunnel.git
+[submodule "localtunnel-server"]
+	path = localtunnel-server
+	url = git@github.com:klxu03/localtunnel-server.git
