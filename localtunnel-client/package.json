@@ -1,6 +1,5 @@
 {
 	"name": "@kevthatdevs/localtunnel",
-	"type": "module",
 	"description": "Expose localhost to the world",
 	"version": "1.0.0",
 	"license": "MIT",
